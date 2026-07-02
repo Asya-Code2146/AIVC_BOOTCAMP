@@ -1,7 +1,7 @@
 # My Profile
 
 ## Perkenalan
-Halo, nama saya Asya.
+Halo, nama saya Amrina Rasyada.
 Saya adalah siswa SMKN 5 Telkom Banda Aceh yang memiliki minat di bidang teknologi, pemrograman, dan Artificial Intelligence (AI).
 
 ## Alasan Mengikuti Bootcamp
